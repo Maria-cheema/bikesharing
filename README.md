@@ -1,8 +1,8 @@
 # bikesharing
 ## Purpose: 
-•	Import data into Tableau.
-•	Create and style worksheets, dashboards, and stories in Tableau.
-•	Use Tableau worksheets to display data in a professional way.
+•	Import data into Tableau. <br>
+•	Create and style worksheets, dashboards, and stories in Tableau.<br>
+•	Use Tableau worksheets to display data in a professional way.<br>
 •	Portray data accurately using Tableau dashboards.
 ## Results:
 - The story can be found at this link :  [link to dashboard](https://public.tableau.com/app/profile/maria.cheema/viz/NYC_Citibike_Analysis_16806688838160/NYCCitibikeanalysis?publish=yes)
